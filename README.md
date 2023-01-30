@@ -2,6 +2,6 @@
 
 Para iniciar o projeto
 
-npx create-react-app . 
-cd my-app 
-npm start
+cd diretorio <br>
+npm i <br>
+npm run dev   
