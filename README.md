@@ -2,6 +2,6 @@
 
 Para iniciar o projeto
 
-cd diretorio <br>
+cd nome-diretorio <br>
 npm i <br>
 npm run dev   
